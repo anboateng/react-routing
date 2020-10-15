@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.navbar {
+  background: darkgrey;
+}
+
+.active{
+  color:black;
+}
+
+.jumbotron {
+  background:seagreen;
+  color: white;
+}
+
+.jumbotron h3 {
+  color: black;
+}
